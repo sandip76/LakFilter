@@ -1,4 +1,4 @@
-**eCommerce Plugin**
+#eCommerce Plugin
 
 This is a Market place plugin supporting Big commerce - eCommerce applications.
 
